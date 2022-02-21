@@ -1,2 +1,9 @@
 # Fundamentals-of-Data-Science
-Data Science Basic
+***
+GSU Fall 2021 Course Work
+***
+* Learning basic of Data Science
+* Python
+* Machin Learning
+***
+Hyunki Lee
